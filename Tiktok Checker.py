@@ -4,8 +4,8 @@ from discord_webhook import DiscordWebhook
 os.system("cls" or "clear")
 print(Fore.RED+"""
 
-Discord Server :  https://discord.gg/HWdgMvFFdY
-        My discord : @K4Sp3r#1337
+
+        
 
  _________  _   __      _________       __              ______  __                    __                     
 |  _   _  |(_) [  |  _ |  _   _  |     [  |  _        .' ___  |[  |                  [  |  _                 
@@ -15,9 +15,9 @@ Discord Server :  https://discord.gg/HWdgMvFFdY
   |_____| [___][__|  \_] |_____| '.__.'[__|  \_]      `.____ .'[___]|__]'.__.''.___.'[__|  \_]'.__.'[___]    
                                                                                                              
 
-    Made By : K4Sp3r
-     Insta : @K4S 
-      Snap : Fuun
+    Made By : x996i
+     
+      
 """+Fore.WHITE)
 time.sleep(.5)
 print("")
